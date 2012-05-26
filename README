@@ -3,7 +3,6 @@ This folder will be used when testing whether we can commit and whatnot. All stu
 Here is how to add and commit stuff in a working folder:
 
 **************************************************************************
-touch <file_name>
 git add <file_name>
 git commit -m 'Descriptive text of what was changed, modified, added, etc.'
 git push -u origin master

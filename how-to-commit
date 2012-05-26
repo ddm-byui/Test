@@ -1,0 +1,10 @@
+Here is how to commit a working file:
+
+/***************************************************************************
+* touch <file_name>
+* git add <file_name>
+* git commit -m 'Descriptive text of what was changed, modified, added, etc.'
+* git push -u origin master
+****************************************************************************/
+
+to create a working directory to send stuff from refer to the Github "Create A Repo" guide
