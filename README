@@ -1,1 +1,13 @@
-This folder will be used when testing whether we can commit and whatnot. All stuff here is useless.
+This folder will be used when testing. All stuff here will be considered useless.
+
+Uses:
+
+* Testing git commands
+** commit
+** add
+** rm
+** etc
+
+* Testing account functionality
+
+* Getting used to the git commands / GUI
